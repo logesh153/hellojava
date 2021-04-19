@@ -1,1 +1,2 @@
-echo "Hello Java"
+javac Hello.Java
+java Hello
